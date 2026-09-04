@@ -2,6 +2,10 @@
    font-family: Arial, Helvetica, sans-serif;
    font-size: ;   
 }
+
+img.lado {
+    float: right;
+}
 body {
     background-color: bisque;
 
@@ -14,3 +18,4 @@ main {
     box-shadow: 3px 3px 5px rgb(39, 17, 17);
 
 }
+
